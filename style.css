@@ -19,7 +19,7 @@ body {
 
 .banner {
 	position:relative;
-	background:url('images/logo.gif') left bottom no-repeat; 
+	background:url('images/logo.png') left bottom no-repeat; 
 	float:left;
 	width:1024px; 
 	margin:10px 40px;
