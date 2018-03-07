@@ -1,75 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
 <url>
-    <loc>http://kjsourcecode.com</loc>
+    <loc>http://kdjstudios.com</loc>
     <lastmod>2012-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>  
 <url>
-    <loc>http://kjsourcecode.com/index.html</loc>
+    <loc>http://kdjstudios.com/index.html</loc>
     <lastmod>2012-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>  
 <url>
-    <loc>http://kjsourcecode.com/</loc>
+    <loc>http://kdjstudios.com/</loc>
     <lastmod>2012-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>  
 <url>
-    <loc>http://kjsourcecode.com/aboutme.html</loc>
+    <loc>http://kdjstudios.com/aboutme.html</loc>
     <lastmod>2012-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-</url>  
+</url>    
 <url>
-    <loc>http://kjsourcecode.com/projects.html</loc>
+    <loc>http://kdjstudios.com/contact.html</loc>
     <lastmod>2012-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-</url>  
-<url>
-    <loc>http://kjsourcecode.com/contact.html</loc>
-    <lastmod>2012-03-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
-<url>
-    <loc>http://kjsourcecode.com/http%3a%2f%2fwww.facebook.com%2fkylejohnsonportfolio&amp;amp;amp;amp;width=475&amp;amp;amp;amp;height=558&amp;amp;amp;amp;colorscheme=dark&amp;amp;amp;amp;show_faces=true&amp;amp;amp;amp;border_color=black&amp;amp;amp;amp;stream=true&amp;amp;amp;amp;header=false</loc>
-    <lastmod>2012-03-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
-<url>
-    <loc>http://kjsourcecode.com/www.facebook.com/plugins/likebox.php?href=http%3a%2f%2fwww.facebook.com%2fkylejohnsonportfolio&amp;amp;amp;amp;width=475&amp;amp;amp;amp;height=558&amp;amp;amp;amp;colorscheme=dark&amp;amp;amp;amp;show_faces=true&amp;amp;amp;amp;border_color=black&amp;amp;amp;amp;stream=true&amp;amp;amp;amp;header=false</loc>
-    <lastmod>2012-03-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
-<url>
-    <loc>http://kjsourcecode.com/kylejohnsonresume.pdf</loc>
-    <lastmod>2012-03-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
-<url>
-    <loc>http://kjsourcecode.com/aohtml/index-withframe.html</loc>
-    <lastmod>2012-03-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
-<url>
-    <loc>http://kjsourcecode.com/emparadocs/binderv3.5.docx</loc>
-    <lastmod>2012-03-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
-<url>
-    <loc>http://kjsourcecode.com/1</loc>
-    <lastmod>2012-03-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
+</url>   
 </urlset>
