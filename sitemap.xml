@@ -2,22 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>http://kdjstudios.com/</loc>
-    <lastmod>2018-03-07</lastmod>
+    <lastmod>2019-03-14</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://kdjstudios.com/contact.html</loc>
-    <lastmod>2018-03-07</lastmod>
+    <lastmod>2019-03-14</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://kdjstudios.com/index.html</loc>
-    <lastmod>2018-03-07</lastmod>
+    <lastmod>2019-03-14</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>http://kdjstudios.com/aboutme.html</loc>
-    <lastmod>2018-03-07</lastmod>
+    <loc>http://kdjstudios.com/about.html</loc>
+    <lastmod>2019-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://kdjstudios.com/projects.html</loc>
+    <lastmod>2019-03-14</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
