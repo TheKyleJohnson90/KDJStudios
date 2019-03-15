@@ -13,6 +13,11 @@ body {
     font-size: 12px;
     background-color: #FFFFFF;
     color: #666666;
+    
+    position: relative;
+  margin: 0;
+  padding-bottom: 3rem;
+  min-height: 100%;
 }
 
 h1 {
@@ -155,6 +160,11 @@ label {
     text-align:center;
     padding:10px;
     margin-top:7px;
+
+    position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
 }
 .footer a {
     color: black;
@@ -316,7 +326,7 @@ label {
 
 
 /* Medium devices (landscape tablets, 600px to 768px ) */
-@media only screen and (max-width: 768px) {
+@media only screen and (min-width: 600px) and (max-width: 768px) {
         
     .main{
         width:50%;
