@@ -26,11 +26,11 @@ h2 {
     font-family: "normal georgia", serif;
     font-size: 18px;
     font-variant: small-caps;
-    color: #6E9DCD;
+    color: #000000;
 }
 
 h3, h4, h5 {
-    color: #0099CC;
+    color: #000000;
 }
 
 a {
@@ -118,11 +118,13 @@ label {
 
 .menu {
     float:left;
-    width:20%;
+    width:19%;
     text-align:center;
     margin-top:7px;
     background-color:#e5e5e5;
     border-radius: 10px;
+    border: solid 1px;
+    margin: 0.5%;
 }
 
 .menu ul {
@@ -145,7 +147,7 @@ label {
 }
 
 .menu a:hover {
-    background-color: #131313;
+    background-color: #666666;
     color:white;
     border-radius: 10px;
 }
@@ -159,7 +161,7 @@ label {
     background-color:#e5e5e5;
     text-align:center;
     padding:10px;
-    
+    border: solid 1px;
     height: 60px;
     margin-top: 10px;
 }
@@ -263,11 +265,13 @@ label {
 .sidebar {
     background-color:#e5e5e5;
     float:left;
-    width:20%;
+    width:19%;
+    margin: 0.5%;
     padding:15px;
     margin-top:7px;
     text-align:center;
     border-radius: 10px;
+    border: solid 1px;
 }
 
 .sidebar img {
@@ -317,7 +321,7 @@ label {
 .sidebar #previews a:hover img {
     text-decoration: none;
     background-color: #666666;
-    border: 1px solid #CCCCCC;
+    border: 1px solid #ffffff;
 }
 
 
@@ -330,14 +334,14 @@ label {
         width:50%;
     }
     .sidebar {
-        width:30%;
+        width:29%;
     }
 } 
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     .menu, .main, .sidebar {
-        width:100%;
+        width:99%;
         margin-top:0px;
     }
     body {
