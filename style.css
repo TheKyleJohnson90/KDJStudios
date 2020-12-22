@@ -99,13 +99,15 @@ label {
 .header {
     background-color:#e5e5e5;
     text-align:center;
-    background-image: url(images/bg.png);
+    background-image: url(images/Fence.JPG); /* url(images/bg.png); */
+    background-size: cover;
     background-repeat: repeat-x;
-    background-position: bottom;
-    height: 60px;
+    background-position: center;
+    height: 200px;
 }
 .header h1 {
     font-size: 36px;
+    vertical-align: baseline;
 }
 
 .logo {
@@ -260,6 +262,36 @@ label {
     margin-bottom: 15px;
 }
 
+/* Galery Stuff*/
+.row {
+  margin: 8px -16px;
+}
+
+/* Add padding BETWEEN each column (if you want) */
+.row,
+.row > .column {
+  padding: 8px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+}
+
+/* Clear floats after rows */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  background-color: white;
+  padding: 10px;
+}
+
 /* Side Bar Stuff */
 
 .sidebar {
@@ -336,6 +368,9 @@ label {
     .sidebar {
         width:29%;
     }
+    .column {
+        width: 50%;
+      }
 } 
 
 /* Extra small devices (phones, 600px and down) */
@@ -347,6 +382,9 @@ label {
     body {
         font-size: 16px;
     }
+    .column {
+    width: 100%;
+  }
 } 
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
